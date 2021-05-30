@@ -1,4 +1,4 @@
-# Why
+# Why Jenkins?
  ## Ease of Use
  - Intuitive web interfance
  - Ease to navigate
@@ -15,6 +15,16 @@
 # Install Jenkins
  - Download https://www.jenkins.io/download/
  - Or use Docker
-  
- 
-      
+# Jobs in Jenkins
+ ## Basic job configuration
+ ## Advanced job configuration
+ ## Run and monitor jobs
+ ## Run and monitor jobs in console log
+ ## Monitor build trends
+ ## Browse job's workspace
+ ## Manage artifacts
+ ## Parameters jobs
+ ## String parameters
+ ## Choice parameters
+ ## Boolean parameters
+ ## Schedule jobs   
